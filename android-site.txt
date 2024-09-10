@@ -1,0 +1,17 @@
+# NOTÍCIAS
+
+Recentemente, o Google lançou várias atualizações e novidades para o sistema Android em setembro de 2024:
+
+Android 15: A versão final do Android 15 foi disponibilizada para desenvolvedores, o que indica que o lançamento para o público geral está próximo. Entre as novidades, destacam-se:
+
+Pesquisa de Músicas em Vídeos: Agora é possível usar o recurso "Circular para pesquisar" para identificar músicas tocando em vídeos.
+Leitura de Páginas pelo Google Chrome: O navegador pode ler artigos em voz alta, melhorando a acessibilidade.
+Descrição de Imagens com IA: O recurso TalkBack foi aprimorado com inteligência artificial para descrever imagens, facilitando o uso para pessoas com deficiência visual.
+Detecção de Terremotos: Expansão do sistema de detecção de terremotos para todo o território dos EUA​(
+TecMundo
+).
+Atualização de Segurança para Google Pixel: A atualização de segurança de setembro de 2024 foi lançada para dispositivos da linha Pixel, do Pixel 6 ao Pixel 9. Esta atualização focou principalmente em correções de segurança, incluindo a eliminação de uma vulnerabilidade que permitia o acesso não autorizado ao dispositivo e melhorias na estabilidade do Wi-Fi​(
+AndroidGeek
+).
+
+Essas novidades demonstram o contínuo esforço do Google em melhorar tanto a segurança quanto a usabilidade do Android, preparando o terreno para o lançamento oficial do Android 15.
